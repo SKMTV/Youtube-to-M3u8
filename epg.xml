@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tv generator-info-name="YouTube Live EPG Generator" date="20260917223136 ">
+<tv generator-info-name="YouTube Live EPG Generator" date="20260918015647 ">
   <channel id="UCt4t-jeY85JegMlZ-E5UWtA">
     <display-name>Aaj Tak</display-name>
     <icon src="logos/UCt4t-jeY85JegMlZ-E5UWtA.jpg"/>
   </channel>
-  <programme start="20260917223136 +0000" stop="20260917233136 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
-    <title>Aaj Tak LIVE TV: PM Modi Birthday | UPI Payment New Rules | Rahul | US Tariffs | Hindi News 2026-09-17 22:30</title>
+  <programme start="20260918015647 +0000" stop="20260918025647 +0000" channel="UCt4t-jeY85JegMlZ-E5UWtA">
+    <title>Aaj Tak LIVE TV: PM Modi | iPhone18 | UPI Payment New Rules | Rahul Gandhi | US Tariffs | Hindi News 2026-09-18 01:55</title>
     <desc>Live YouTube stream from Aaj Tak</desc>
     <category>Live</category>
   </programme>
@@ -13,8 +13,8 @@
     <display-name>ABP NEWS</display-name>
     <icon src="logos/UCRWFSbif-RFENbBrSiez1DA.jpg"/>
   </channel>
-  <programme start="20260917223136 +0000" stop="20260917233136 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
-    <title>ABP NEWS LIVE: US Tariffs | UPI Payment New Rules | PM Modi Birthday | UCC | Houthi Attacks Saudi 2026-09-17 22:30</title>
+  <programme start="20260918015647 +0000" stop="20260918025647 +0000" channel="UCRWFSbif-RFENbBrSiez1DA">
+    <title>ABP NEWS LIVE: US Tariffs | UPI Payment New Rules | PM Modi Birthday | UCC | Houthi Attacks Saudi 2026-09-18 01:55</title>
     <desc>Live YouTube stream from ABP NEWS</desc>
     <category>Live</category>
   </programme>
@@ -22,8 +22,8 @@
     <display-name>BIGTV24X7</display-name>
     <icon src="logos/UClFe5TPbW1MVrOPpbNHTDoQ.jpg"/>
   </channel>
-  <programme start="20260917223136 +0000" stop="20260917233136 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
-    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Latest News 2026-09-17 22:30</title>
+  <programme start="20260918015647 +0000" stop="20260918025647 +0000" channel="UClFe5TPbW1MVrOPpbNHTDoQ">
+    <title>BigTV Live | Malayalam News Live | BIG TV MALAYALAM | Latest News 2026-09-18 01:56</title>
     <desc>Live YouTube stream from BIGTV24X7</desc>
     <category>Live</category>
   </programme>
@@ -31,8 +31,8 @@
     <display-name>cricketcomau</display-name>
     <icon src="logos/UCkBY0aHJP9BwjZLDYxAQrKg.jpg"/>
   </channel>
-  <programme start="20260917223136 +0000" stop="20260917233136 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
-    <title>Cricket Gold - 24/7 LIVE Channel 2026-09-17 22:30</title>
+  <programme start="20260918015647 +0000" stop="20260918025647 +0000" channel="UCkBY0aHJP9BwjZLDYxAQrKg">
+    <title>Cricket Gold - 24/7 LIVE Channel 2026-09-18 01:56</title>
     <desc>Live YouTube stream from cricketcomau</desc>
     <category>Live</category>
   </programme>
@@ -40,8 +40,8 @@
     <display-name>Rajasthan Patrika</display-name>
     <icon src="logos/UCWk-7Yosyvzln9ZzJg8BvVg.jpg"/>
   </channel>
-  <programme start="20260917223136 +0000" stop="20260917233136 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
-    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-09-17 22:31</title>
+  <programme start="20260918015647 +0000" stop="20260918025647 +0000" channel="UCWk-7Yosyvzln9ZzJg8BvVg">
+    <title>Patrika TV LIVE | Rajasthan Patrika | Super Fast News LIVE | Top News LIVE | Aaj Ki Taaza Khabar 2026-09-18 01:56</title>
     <desc>Live YouTube stream from Rajasthan Patrika</desc>
     <category>Live</category>
   </programme>
@@ -49,8 +49,8 @@
     <display-name>ABC News</display-name>
     <icon src="logos/UCBi2mrWuNuyYy4gbM6fU18Q.jpg"/>
   </channel>
-  <programme start="20260917223136 +0000" stop="20260917233136 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
-    <title>LIVE: ABC News Live - Thursday, September 17 | ABC News 2026-09-17 22:31</title>
+  <programme start="20260918015647 +0000" stop="20260918025647 +0000" channel="UCBi2mrWuNuyYy4gbM6fU18Q">
+    <title>LIVE: ABC News Live - Thursday, September 17 | ABC News 2026-09-18 01:56</title>
     <desc>Live YouTube stream from ABC News</desc>
     <category>Live</category>
   </programme>
@@ -58,8 +58,8 @@
     <display-name>Hindustan Times</display-name>
     <icon src="logos/UCm7lHFkt2yB_WzL67aruVBQ.jpg"/>
   </channel>
-  <programme start="20260917223136 +0000" stop="20260917233136 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
-    <title>LIVE | Houthis Claim ‘True’ Role Over Mecca, Send Message To MBS After Disputed Attack Claim 2026-09-17 22:31</title>
+  <programme start="20260918015647 +0000" stop="20260918025647 +0000" channel="UCm7lHFkt2yB_WzL67aruVBQ">
+    <title>Kash Patel Testimony LIVE: 3.5 Million Epstein Pages Released? Kash Patel Faces Senate Grilling 2026-09-18 01:56</title>
     <desc>Live YouTube stream from Hindustan Times</desc>
     <category>Live</category>
   </programme>
@@ -67,8 +67,8 @@
     <display-name>LiveNOW from FOX</display-name>
     <icon src="logos/UCJg9wBPyKMNA5sRDnvzmkdg.jpg"/>
   </channel>
-  <programme start="20260917223136 +0000" stop="20260917233136 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
-    <title>LIVE NEWS: Trump Rose Garden dinner, US-Iran war latest, Canada EU latest, Fed rate hikes &amp; more 2026-09-17 22:31</title>
+  <programme start="20260918015647 +0000" stop="20260918025647 +0000" channel="UCJg9wBPyKMNA5sRDnvzmkdg">
+    <title>LIVE NEWS: Trump Rose Garden dinner, US-Iran war latest, Canada EU latest, Fed rate hikes &amp; more 2026-09-18 01:56</title>
     <desc>Live YouTube stream from LiveNOW from FOX</desc>
     <category>Live</category>
   </programme>
@@ -76,8 +76,8 @@
     <display-name>NewsX World</display-name>
     <icon src="logos/UCvu9pKtF3Y8KaJVD-WMiOrg.jpg"/>
   </channel>
-  <programme start="20260917223136 +0000" stop="20260917233136 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
-    <title>LIVE: Trump Says US-Poland Army Base Plans Make ‘Major Progress’ | NewsX World 2026-09-17 22:31</title>
+  <programme start="20260918015647 +0000" stop="20260918025647 +0000" channel="UCvu9pKtF3Y8KaJVD-WMiOrg">
+    <title>LIVE: Trump Says US-Poland Army Base Plans Make ‘Major Progress’ | NewsX World 2026-09-18 01:56</title>
     <desc>Live YouTube stream from NewsX World</desc>
     <category>Live</category>
   </programme>
